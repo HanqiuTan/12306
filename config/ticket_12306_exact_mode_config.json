@@ -1,12 +1,12 @@
 {
-  "username":"username",
-  "password":"password",
+  "username":"13098449819",
+  "password":"Lucas1995vcu",
   "from_station":"SHH",
-  "from_station_text":"广州",
+  "from_station_text":"广州南",
   "to_station":"WCN",
-  "to_station_text":"武昌",
-  "travel_date":"'2018-12-27'",
-  "passenger_list":["张三","李四"],
-  "train_code":"G552",
+  "to_station_text":"武汉",
+  "travel_date":"'2019-02-04'",
+  "passenger_list":"谭涵秋",
+  "train_code":"G296",
   "train_seat":["二等座","一等座"]
 }
