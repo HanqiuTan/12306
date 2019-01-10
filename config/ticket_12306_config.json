@@ -1,14 +1,13 @@
 {
   "username":"13098449819",
   "password":"Lucas1995vcu",
-  "from_station":"SHH",
+  "from_station":"SZQ",
   "from_station_text":"深圳",
   "to_station":"WCN",
   "to_station_text":"武昌",
-  "travel_date":"'2019-01-02'",
+  "travel_date":"'2019-02-02'",
   "passenger_list":"谭涵秋",
   "priority_train":[
-    {"train_code":"Z27","train_seat":["硬卧","软卧"]},
-    {"train_code":"K258","train_seat":["硬座"]}
+    {"train_code":"Z24","train_seat":["硬卧","软卧"]}
   ]
 }
